@@ -4,16 +4,19 @@ This repository contains the processed dataset and reproducible code used to ana
 The data and code underpin the mixed-effects modelling and Poisson-based imputation procedures described in the accompanying research report.
 
 ---
-
 ## Repository Structure
-/data/
-├── RPDA_Merged_Dataset.csv # Consolidated dataset (2022–2024; 52 districts)
-└── PHC_Project_Dataset.csv # Final project dataset used for analysis
 
-/notebooks/
-├── PHC_Project_Imputation.ipynb # Poisson regression imputation model and diagnostics
-├── PHC_Project_EDA.ipynb # Exploratory data analysis
-└── PHC_Project_Model.ipynb # Main regression model
+**Data Files**
+- `data/RPDA_Merged_Dataset.csv` – Consolidated dataset (2022–2024; 52 districts)  
+- `data/PHC_Project_Dataset.csv` – Final project dataset used for analysis (includes imputed values)
+
+**Jupyter Notebooks**
+- `notebooks/PHC_Project_Imputation.ipynb` – Poisson regression imputation model and diagnostics  
+- `notebooks/PHC_Project_EDA.ipynb` – Exploratory data analysis  
+- `notebooks/PHC_Project_Model.ipynb` – Main regression model
+
+**Documentation**
+- `README.md` – Repository description and access details
 
 ---
 
