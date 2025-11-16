@@ -23,7 +23,7 @@ The data and code underpin the mixed-effects modelling and Poisson-based imputat
 ## Dataset Description
 
 **File:** `data/PHC_Project_Dataset.csv`  
-**Contents:** 156 records (52 districts × 3 years)  
+**Contents:** 156 records (52 districts across 9 provinces × 3 years)  
 **Purpose:** Used for district-level analysis of PHC workload, digital access, and system capacity.  
 **Provenance:** Constructed from Statistics South Africa and Health Systems Trust sources (see Appendix A in the report).  
 All variables are fully de-identified and correspond to the variable definitions listed in *Appendix B* of the research report.
