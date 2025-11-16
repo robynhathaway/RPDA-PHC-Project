@@ -7,7 +7,7 @@ The data and code underpin the mixed-effects modelling and Poisson-based imputat
 ## Repository Structure
 
 **Data Files**
-- `data/RPDA_Merged_Dataset.csv` – Consolidated dataset (2022–2024; 52 districts)  
+- `data/RPDA_Merged_Dataset.csv` – Consolidated dataset (2022–2024; 156 observations)  
 - `data/PHC_Project_Dataset.csv` – Final project dataset used for analysis (includes imputed values)
 
 **Jupyter Notebooks**
